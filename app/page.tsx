@@ -152,7 +152,7 @@ export default function Component() {
             </div>
           </div>
         </section>
-        <section className="w-full py-12 md:py-24 lg:py-32 bg-muted flex justify-center">
+        <section className="w-full py-12 md:py-24 lg:py-32 bg-background flex justify-center">
           <div className="container grid items-center gap-6 px-4 md:px-6 lg:grid-cols-2 lg:gap-10">
             <div className="space-y-2">
               <h2 className="text-3xl font-bold tracking-tighter md:text-4xl/tight">Find Us on the Map</h2>
@@ -180,7 +180,7 @@ export default function Component() {
             </div>
           </div>
         </section>
-        <section id="contact" className="py-12 md:py-20 bg-background flex justify-center">
+        <section id="contact" className="py-12 md:py-20 bg-muted flex justify-center">
           <div className="container px-4 md:px-6">
             <div className="grid md:grid-cols-2 gap-8">
               <div>
